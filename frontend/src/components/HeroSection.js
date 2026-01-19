@@ -1,17 +1,19 @@
 import Image from "next/image";
 export default function HeroSection() {
   return (
-    <div className=" lg:flex-row lg:flex flex-col items-stretch text-center  relative py-8">
-      <section className="text-center py-24 bg-linear-to-r from-gray-900 to-black w-[50%] rounded-r-lg shadow-lg p-8">
-        <h1 className="text-5xl font-bold mb-4">
+    <div className="w-full bg-gradient-to-r from-gray-900 to-black rounded-r-lg shadow-lg px-6 py-16 sm:px-10 lg:px-16 flex justify-around">
+      <section className="max-w-xl mx-auto lg:mx-0 text-center lg:text-left">
+        <h1 className="text-3xl sm:text-4xl lg:text-5xl
+ font-bold mb-4">
           Semra Nur Tasdemir – Klinisch Psycholoog
         </h1>
-        <p className="text-xl mb-6 max-w-2xl mx-auto">
+        <p className="text-sm sm:text-lg lg:text-xl
+ mb-6 max-w-2xl mx-auto">
           Expertise in therapie voor kinderen, koppels, families en volwassenen.
           Depressie, burnout, trauma en relatieproblemen zijn de meest
           voorkomende klachten.
         </p>
-        <p className="text-md mb-8  max-w-xl mx-auto">
+        <p className="text-sm sm:text-md lg:text-xl mb-8  max-w-xl mx-auto">
           Sessies uitsluitend in het Turks, zodat elk probleem volledig begrepen
           en behandeld kan worden.
         </p>
