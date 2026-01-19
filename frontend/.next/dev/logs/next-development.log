@@ -1,0 +1,74 @@
+[00:00:01.961] Server  LOG     ✓ Ready in 1237ms
+[00:00:06.449] Server  ERROR   ⨯ ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:08.160] Browser ERROR   uncaughtError: Error: ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:08.343] Browser ERROR   ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:08.686] Browser ERROR   ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:48.764] Browser ERROR   ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:01.857] Browser ERROR   ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:06.751] Browser ERROR   ./src/app/page.js:1:1
+Module not found: Can't resolve './components/Footer'
+> 1 | import Footer from "./components/Footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function Home() {
+  3 |   return (
+  4 |     <main className="min-h-screen flex flex-col justify-between">
+
+https://nextjs.org/docs/messages/module-not-found
+[00:01:12.512] Server  LOG     ✓ Compiled in 25ms
+[00:01:48.829] Server  LOG     ✓ Compiled in 29ms
