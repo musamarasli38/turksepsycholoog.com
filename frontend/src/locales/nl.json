@@ -140,5 +140,150 @@
     "information": "Informatie",
     "contact": "Contact",
     "copyright": "Turksepsycholoog.com. Alle rechten voorbehouden."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "intro": "Als klinisch psycholoog hecht ik grote waarde aan de bescherming van uw persoonlijke gegevens. Dit privacybeleid legt uit welke informatie wordt verzameld, hoe deze wordt gebruikt, en welke rechten u heeft.",
+    "lastUpdated": "Laatste update:",
+    "section1": {
+      "title": "1. Welke gegevens worden verzameld?",
+      "content": "Voor het plannen van afspraken en het verlenen van psychologische diensten verzamel ik de volgende gegevens:",
+      "item1": "Naam en contactgegevens (email, telefoon)",
+      "item2": "Medische en psychologische informatie die relevant is voor de behandeling",
+      "item3": "Notities van therapiesessies",
+      "item4": "Informatie uit contactformulieren en afspraakaanvragen"
+    },
+    "section2": {
+      "title": "2. Waarvoor worden de gegevens gebruikt?",
+      "content": "Uw gegevens worden uitsluitend gebruikt voor professionele doeleinden:",
+      "item1": "Het verlenen van psychologische hulp en therapie",
+      "item2": "Het bijhouden van een behandeldossier",
+      "item3": "Communicatie over afspraken en behandeling"
+    },
+    "section3": {
+      "title": "3. Hoe lang worden gegevens bewaard?",
+      "content": "In overeenstemming met de Belgische wetgeving voor medische professionals bewaar ik uw gegevens gedurende 10 jaar na de laatste behandeling. Deze bewaartermijn is wettelijk verplicht voor psychologen en dient voor continuïteit van zorg en verantwoording."
+    },
+    "section4": {
+      "title": "4. Delen met derden",
+      "content": "Uw gegevens worden nooit met derden gedeeld, behalve in de volgende situaties:",
+      "item1": "Met uw expliciete toestemming",
+      "item2": "Wanneer dit wettelijk verplicht is (bijvoorbeeld bij een gevaar voor uzelf of anderen)"
+    },
+    "section5": {
+      "title": "5. Uw rechten",
+      "content": "U heeft de volgende rechten met betrekking tot uw persoonsgegevens:",
+      "right1": "Inzage:",
+      "right1Desc": "U kunt vragen welke gegevens ik over u bewaar",
+      "right2": "Correctie:",
+      "right2Desc": "U kunt vragen om onjuiste gegevens te corrigeren",
+      "right3": "Verwijdering:",
+      "right3Desc": "U kunt verzoeken om uw gegevens te verwijderen",
+      "note": "Belangrijke opmerking:",
+      "noteContent": "Als medisch professional ben ik wettelijk verplicht om uw behandeldossier gedurende 10 jaar te bewaren. Verzoeken tot verwijdering van essentiële medische gegevens kunnen daarom niet altijd worden ingewilligd tijdens deze periode."
+    },
+    "section6": {
+      "title": "6. Beveiliging",
+      "content": "Uw gegevens worden veilig opgeslagen in een beveiligde cloud-omgeving met strikte toegangscontrole. Alleen ik heb toegang tot uw dossier."
+    },
+    "contact": {
+      "title": "Contact",
+      "name": "Naam:",
+      "email": "Email:",
+      "phone": "Telefoon:",
+      "address": "Adres:"
+    }
+  },
+  "cookies": {
+    "title": "Cookiebeleid",
+    "intro": "Deze website maakt momenteel geen gebruik van cookies voor tracking of analytics doeleinden. Dit beleid legt uit hoe wij omgaan met cookies en vergelijkbare technologieën.",
+    "lastUpdated": "Laatste update:",
+    "section1": {
+      "title": "1. Wat zijn cookies?",
+      "content": "Cookies zijn kleine tekstbestanden die op uw computer of mobiel apparaat worden opgeslagen wanneer u een website bezoekt. Ze worden gebruikt om websites te laten functioneren of efficiënter te werken, en om informatie te verstrekken aan de eigenaren van de site."
+    },
+    "section2": {
+      "title": "2. Welke cookies gebruiken wij?",
+      "content": "Deze website gebruikt momenteel geen cookies voor analytics, tracking of marketing doeleinden. We verzamelen geen gegevens over uw surfgedrag via cookies."
+    },
+    "section3": {
+      "title": "3. Toekomstig gebruik",
+      "content": "Mochten wij in de toekomst cookies willen gebruiken (bijvoorbeeld voor het verbeteren van de website-ervaring), dan zullen we dit cookiebeleid bijwerken en uw toestemming vragen conform de GDPR-wetgeving.",
+      "note": "U kunt altijd cookies in uw browser uitschakelen via uw browserinstellingen. Dit heeft geen invloed op het gebruik van deze website."
+    },
+    "contact": {
+      "title": "Vragen?",
+      "content": "Als u vragen heeft over dit cookiebeleid, neem dan contact met ons op:",
+      "email": "Email:"
+    }
+  },
+  "gdpr": {
+    "title": "GDPR & Gegevensbescherming",
+    "intro": "Als klinisch psycholoog in België ben ik verplicht om te voldoen aan de Algemene Verordening Gegevensbescherming (AVG/GDPR). Dit document legt uit hoe ik uw rechten bescherm en aan mijn verplichtingen voldoe.",
+    "lastUpdated": "Laatste update:",
+    "professional": {
+      "title": "Professioneel Beroepsgeheim",
+      "content": "Als erkend psycholoog ben ik gebonden aan het medisch beroepsgeheim onder Belgische wetgeving:",
+      "item1": "Artikel 458 van het Belgisch Strafwetboek verplicht mij tot absolute vertrouwelijkheid",
+      "item2": "Ik mag geen informatie over cliënten delen zonder expliciete toestemming, behalve in wettelijk verplichte situaties",
+      "item3": "Deze verplichting gaat verder dan de GDPR en biedt u extra bescherming"
+    },
+    "section1": {
+      "title": "1. Rechtmatige Grondslag voor Gegevensverwerking",
+      "content": "Ik verwerk uw gezondheidsgegevens (bijzondere categorieën persoonsgegevens volgens Artikel 9 GDPR) op basis van:",
+      "basis1": "Expliciete Toestemming (Artikel 9.2.a GDPR)",
+      "basis1Desc": "U geeft expliciete toestemming voor het verwerken van uw gezondheidsgegevens ten behoeve van psychologische behandeling",
+      "basis2": "Vitale Belangen (Artikel 9.2.c GDPR)",
+      "basis2Desc": "In noodsituaties kan verwerking noodzakelijk zijn om uw leven of dat van anderen te beschermen",
+      "basis3": "Publiek Belang - Volksgezondheid (Artikel 9.2.h GDPR)",
+      "basis3Desc": "Gegevensverwerking voor gezondheidszorg en het beheren van medische dossiers valt onder publiek belang"
+    },
+    "section2": {
+      "title": "2. Uw Rechten onder de GDPR",
+      "content": "U heeft de volgende rechten met betrekking tot uw persoonsgegevens:",
+      "right1": "Recht op Inzage (Artikel 15)",
+      "right1Desc": "U kunt een kopie opvragen van alle gegevens die ik over u bewaar",
+      "right2": "Recht op Rectificatie (Artikel 16)",
+      "right2Desc": "U kunt vragen om onjuiste of onvolledige gegevens te corrigeren",
+      "right3": "Recht op Gegevenswissing (Artikel 17)",
+      "right3Desc": "U kunt verzoeken om uw gegevens te verwijderen (met beperkingen voor medische dossiers)",
+      "right4": "Recht op Beperking (Artikel 18)",
+      "right4Desc": "U kunt vragen om de verwerking van uw gegevens te beperken in bepaalde situaties",
+      "right5": "Recht op Overdraagbaarheid (Artikel 20)",
+      "right5Desc": "U kunt uw gegevens in een gestructureerde vorm opvragen om naar een andere zorgverlener over te dragen",
+      "right6": "Recht van Bezwaar (Artikel 21)",
+      "right6Desc": "U kunt bezwaar maken tegen bepaalde vormen van gegevensverwerking"
+    },
+    "section3": {
+      "title": "3. Beperkingen op Rechten (Medische Context)",
+      "content": "Als medisch professional ben ik wettelijk verplicht om bepaalde gegevens te bewaren, ook als u om verwijdering vraagt:",
+      "item1": "Behandeldossiers moeten 10 jaar bewaard worden volgens Belgische wetgeving (KB 78)",
+      "item2": "Het recht op gegevenswissing geldt niet voor gegevens die noodzakelijk zijn voor volksgezondheid of wettelijke verplichtingen",
+      "item3": "Beroepsgeheim kan het delen van bepaalde informatie beperken, zelfs met andere zorgverleners zonder uw expliciete toestemming"
+    },
+    "section4": {
+      "title": "4. Beveiligingsmaatregelen",
+      "content": "Ik neem de volgende maatregelen om uw gegevens te beschermen:",
+      "item1": "Versleutelde opslag in beveiligde cloud-omgeving met toegangscontrole",
+      "item2": "Geen toegang voor derden zonder uw expliciete toestemming",
+      "item3": "Regelmatige beveiligingsupdates en backups",
+      "item4": "Fysieke beveiliging van eventuele papieren dossiers"
+    },
+    "section5": {
+      "title": "5. Klacht Indienen",
+      "content": "Als u vindt dat uw rechten geschonden zijn, kunt u een klacht indienen bij de Belgische Gegevensbeschermingsautoriteit:",
+      "authority": "Gegevensbeschermingsautoriteit (GBA)",
+      "authorityName": "Autorité de Protection des Données (APD) / Gegevensbeschermingsautoriteit (GBA)",
+      "address": "Drukpersstraat 35, 1000 Brussel",
+      "email": "contact@apd-gba.be"
+    },
+    "contact": {
+      "title": "Contact voor GDPR-verzoeken",
+      "content": "Voor verzoeken met betrekking tot uw rechten onder de GDPR, neem contact met mij op:",
+      "name": "Naam:",
+      "email": "Email:",
+      "phone": "Telefoon:",
+      "address": "Adres:"
+    }
   }
 }

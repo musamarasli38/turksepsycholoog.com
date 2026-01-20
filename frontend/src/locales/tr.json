@@ -140,5 +140,150 @@
     "information": "Bilgi",
     "contact": "İletişim",
     "copyright": "Turksepsycholoog.com. Tüm hakları saklıdır."
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "intro": "Klinik psikolog olarak kişisel verilerinizin korunmasına büyük önem veriyorum. Bu gizlilik politikası, hangi bilgilerin toplandığını, nasıl kullanıldığını ve haklarınızın neler olduğunu açıklar.",
+    "lastUpdated": "Son güncelleme:",
+    "section1": {
+      "title": "1. Hangi veriler toplanır?",
+      "content": "Randevu planlaması ve psikolojik hizmetler sunmak için aşağıdaki verileri topluyorum:",
+      "item1": "Ad ve iletişim bilgileri (email, telefon)",
+      "item2": "Tedavi ile ilgili tıbbi ve psikolojik bilgiler",
+      "item3": "Terapi seanslarından notlar",
+      "item4": "İletişim formları ve randevu taleplerinden gelen bilgiler"
+    },
+    "section2": {
+      "title": "2. Veriler ne için kullanılır?",
+      "content": "Verileriniz yalnızca profesyonel amaçlar için kullanılır:",
+      "item1": "Psikolojik yardım ve terapi sağlamak",
+      "item2": "Tedavi dosyası tutmak",
+      "item3": "Randevular ve tedavi hakkında iletişim"
+    },
+    "section3": {
+      "title": "3. Veriler ne kadar süre saklanır?",
+      "content": "Belçika'daki tıbbi profesyoneller için yasal düzenlemelere uygun olarak verilerinizi son tedaviden sonra 10 yıl boyunca saklıyorum. Bu saklama süresi psikologlar için yasal olarak zorunludur ve bakımın sürekliliği ile hesap verebilirlik için gereklidir."
+    },
+    "section4": {
+      "title": "4. Üçüncü taraflarla paylaşım",
+      "content": "Verileriniz asla üçüncü taraflarla paylaşılmaz, aşağıdaki durumlar hariç:",
+      "item1": "Açık izninizle",
+      "item2": "Yasal olarak zorunlu olduğunda (örneğin kendiniz veya başkaları için bir tehlike durumunda)"
+    },
+    "section5": {
+      "title": "5. Haklarınız",
+      "content": "Kişisel verilerinizle ilgili aşağıdaki haklara sahipsiniz:",
+      "right1": "Erişim:",
+      "right1Desc": "Hakkınızda hangi verileri sakladığımı sorabilirsiniz",
+      "right2": "Düzeltme:",
+      "right2Desc": "Yanlış verilerin düzeltilmesini isteyebilirsiniz",
+      "right3": "Silme:",
+      "right3Desc": "Verilerinizin silinmesini talep edebilirsiniz",
+      "note": "Önemli not:",
+      "noteContent": "Tıbbi profesyonel olarak tedavi dosyanızı 10 yıl boyunca saklamak zorundayım. Bu nedenle, temel tıbbi verilerin silinme talepleri bu süre içinde her zaman yerine getirilemeyebilir."
+    },
+    "section6": {
+      "title": "6. Güvenlik",
+      "content": "Verileriniz sıkı erişim kontrolüne sahip güvenli bir bulut ortamında güvenli bir şekilde saklanır. Dosyanıza yalnızca ben erişebilirim."
+    },
+    "contact": {
+      "title": "İletişim",
+      "name": "Ad:",
+      "email": "Email:",
+      "phone": "Telefon:",
+      "address": "Adres:"
+    }
+  },
+  "cookies": {
+    "title": "Çerez Politikası",
+    "intro": "Bu web sitesi şu anda izleme veya analiz amaçları için çerez kullanmamaktadır. Bu politika, çerezler ve benzer teknolojilerle nasıl başa çıktığımızı açıklar.",
+    "lastUpdated": "Son güncelleme:",
+    "section1": {
+      "title": "1. Çerezler nedir?",
+      "content": "Çerezler, bir web sitesini ziyaret ettiğinizde bilgisayarınıza veya mobil cihazınıza kaydedilen küçük metin dosyalarıdır. Web sitelerinin çalışmasını veya daha verimli çalışmasını sağlamak ve site sahiplerine bilgi sağlamak için kullanılırlar."
+    },
+    "section2": {
+      "title": "2. Hangi çerezleri kullanıyoruz?",
+      "content": "Bu web sitesi şu anda analiz, izleme veya pazarlama amaçları için çerez kullanmamaktadır. Çerezler aracılığıyla gezinme davranışınız hakkında veri toplamıyoruz."
+    },
+    "section3": {
+      "title": "3. Gelecekteki kullanım",
+      "content": "Gelecekte çerezleri kullanmak istersek (örneğin web sitesi deneyimini geliştirmek için), bu çerez politikasını güncelleyeceğiz ve GDPR mevzuatına uygun olarak izninizi isteyeceğiz.",
+      "note": "Tarayıcı ayarlarınız aracılığıyla tarayıcınızda çerezleri her zaman devre dışı bırakabilirsiniz. Bu, bu web sitesinin kullanımını etkilemez."
+    },
+    "contact": {
+      "title": "Sorular?",
+      "content": "Bu çerez politikası hakkında sorularınız varsa, lütfen bizimle iletişime geçin:",
+      "email": "Email:"
+    }
+  },
+  "gdpr": {
+    "title": "GDPR & Veri Koruma",
+    "intro": "Belçika'da klinik psikolog olarak Genel Veri Koruma Yönetmeliği'ne (GDPR) uymak zorundayım. Bu belge haklarınızı nasıl koruduğumu ve yükümlülüklerimi nasıl yerine getirdiğimi açıklar.",
+    "lastUpdated": "Son güncelleme:",
+    "professional": {
+      "title": "Mesleki Gizlilik",
+      "content": "Onaylı psikolog olarak Belçika yasalarına göre tıbbi gizlilik yükümlülüğü altındayım:",
+      "item1": "Belçika Ceza Kanunu'nun 458. maddesi mutlak gizliliği zorunlu kılar",
+      "item2": "Açık izin olmadan danışanlar hakkında bilgi paylaşamam, yasal olarak zorunlu durumlar hariç",
+      "item3": "Bu yükümlülük GDPR'den daha ileri gider ve size ekstra koruma sağlar"
+    },
+    "section1": {
+      "title": "1. Veri İşleme için Yasal Dayanak",
+      "content": "Sağlık verilerinizi (GDPR Madde 9'a göre özel kategoriler kişisel veriler) aşağıdaki temellerde işliyorum:",
+      "basis1": "Açık Rıza (GDPR Madde 9.2.a)",
+      "basis1Desc": "Psikolojik tedavi amacıyla sağlık verilerinizin işlenmesi için açık rıza veriyorsunuz",
+      "basis2": "Hayati Çıkarlar (GDPR Madde 9.2.c)",
+      "basis2Desc": "Acil durumlarda, sizin veya başkalarının hayatını korumak için işleme gerekli olabilir",
+      "basis3": "Kamu Yararı - Halk Sağlığı (GDPR Madde 9.2.h)",
+      "basis3Desc": "Sağlık hizmetleri ve tıbbi dosya yönetimi için veri işleme kamu yararı kapsamına girer"
+    },
+    "section2": {
+      "title": "2. GDPR Kapsamındaki Haklarınız",
+      "content": "Kişisel verilerinizle ilgili aşağıdaki haklara sahipsiniz:",
+      "right1": "Erişim Hakkı (Madde 15)",
+      "right1Desc": "Hakkınızda sakladığım tüm verilerin bir kopyasını talep edebilirsiniz",
+      "right2": "Düzeltme Hakkı (Madde 16)",
+      "right2Desc": "Yanlış veya eksik verilerin düzeltilmesini isteyebilirsiniz",
+      "right3": "Silme Hakkı (Madde 17)",
+      "right3Desc": "Verilerinizin silinmesini talep edebilirsiniz (tıbbi dosyalar için sınırlamalarla)",
+      "right4": "Kısıtlama Hakkı (Madde 18)",
+      "right4Desc": "Belirli durumlarda verilerinizin işlenmesinin kısıtlanmasını isteyebilirsiniz",
+      "right5": "Taşınabilirlik Hakkı (Madde 20)",
+      "right5Desc": "Verilerinizi yapılandırılmış formatta isteyerek başka bir sağlık sağlayıcısına aktarabilirsiniz",
+      "right6": "İtiraz Hakkı (Madde 21)",
+      "right6Desc": "Belirli veri işleme türlerine itiraz edebilirsiniz"
+    },
+    "section3": {
+      "title": "3. Haklar Üzerindeki Sınırlamalar (Tıbbi Bağlam)",
+      "content": "Tıbbi profesyonel olarak, silme talebinde bulunsanız bile belirli verileri saklamak zorundayım:",
+      "item1": "Tedavi dosyaları Belçika yasalarına göre (KB 78) 10 yıl saklanmalıdır",
+      "item2": "Silme hakkı, halk sağlığı veya yasal yükümlülükler için gerekli olan veriler için geçerli değildir",
+      "item3": "Mesleki gizlilik, açık izniniz olmadan diğer sağlık sağlayıcılarıyla bile belirli bilgilerin paylaşılmasını sınırlayabilir"
+    },
+    "section4": {
+      "title": "4. Güvenlik Önlemleri",
+      "content": "Verilerinizi korumak için aşağıdaki önlemleri alıyorum:",
+      "item1": "Erişim kontrollü güvenli bulut ortamında şifreli depolama",
+      "item2": "Açık izniniz olmadan üçüncü tarafların erişimi yok",
+      "item3": "Düzenli güvenlik güncellemeleri ve yedeklemeler",
+      "item4": "Kağıt dosyaların fiziksel güvenliği"
+    },
+    "section5": {
+      "title": "5. Şikayet Başvurusu",
+      "content": "Haklarınızın ihlal edildiğini düşünüyorsanız, Belçika Veri Koruma Otoritesi'ne şikayette bulunabilirsiniz:",
+      "authority": "Gegevensbeschermingsautoriteit (GBA)",
+      "authorityName": "Autorité de Protection des Données (APD) / Gegevensbeschermingsautoriteit (GBA)",
+      "address": "Drukpersstraat 35, 1000 Brüksel",
+      "email": "contact@apd-gba.be"
+    },
+    "contact": {
+      "title": "GDPR Talepleri İçin İletişim",
+      "content": "GDPR kapsamındaki haklarınızla ilgili talepler için benimle iletişime geçin:",
+      "name": "Ad:",
+      "email": "Email:",
+      "phone": "Telefon:",
+      "address": "Adres:"
+    }
   }
 }
