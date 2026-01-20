@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Over Mij",
+    "contact": "Contact",
+    "bookAppointment": "Boek Afspraak"
+  },
+  "hero": {
+    "title": "Semra Nur Tasdemir  Klinisch Psycholoog",
+    "subtitle": "Expertise in therapie voor kinderen, koppels, families en volwassenen. Depressie, burnout, trauma en relatieproblemen zijn de meest voorkomende klachten.",
+    "note": "Sessies uitsluitend in het Turks, zodat elk probleem volledig begrepen en behandeld kan worden."
+  },
+  "about": {
+    "title": "Over Mij",
+    "intro": "Ik ben Semra Nur Tasdemir, klinisch psycholoog. Mijn expertise omvat therapie voor kinderen, families, koppels en volwassenen. De meest voorkomende klachten die ik behandel zijn depressie, trauma, burnout, paniekstoornis, angst en woedeproblemen.",
+    "experience": "Met meer dan 10 jaar werkervaring heb ik in diverse instellingen en groepspraktijken gewerkt. Momenteel werk ik als zelfstandig praktiserende klinisch psycholoog.",
+    "approach": "Ik geloof in een persoonlijke, respectvolle benadering. Als therapeut neem ik de tijd om je situatie volledig te begrijpen en de meest geschikte behandelmethode toe te passen voor jouw specifieke behoeften.",
+    "languageTitle": "⚠️ Belangrijk: Ik voer sessies uitsluitend in het Turks uit",
+    "languageNote": "Als therapeut moet ik de situatie volledig kunnen begrijpen om de juiste psychologische ondersteuning te bieden. Het Turks stelt mij in staat daar dieper in te gaan."
+  },
+  "expertise": {
+    "title": "Therapievormen & Expertise",
+    "subtitle": "Ik werk met wetenschappelijk bewezen therapiemethoden, afgestemd op jouw specifieke situatie",
+    "therapies": {
+      "individual": "Individuele Therapie",
+      "individualDesc": "Één-op-één begeleiding voor persoonlijke psychologische vraagstukken",
+      "couples": "Koppelstherapie",
+      "couplesDesc": "Ondersteuning voor relatieproblemen en communicatie",
+      "family": "Familiegesprekken",
+      "familyDesc": "Therapie voor families met dynamische of conflictproblematiek",
+      "children": "Kinderpsychologie",
+      "childrenDesc": "Specialisatie in kinderen tussen 4 en 12 jaar oud",
+      "emdr": "EMDR (Trauma)",
+      "emdrDesc": "Eye Movement Desensitization and Reprocessing voor traumaverwerking",
+      "eft": "EFT (Emotionally Focused Therapy)",
+      "eftDesc": "Emotioneel gericht therapie voor diepere emotionele verbinding",
+      "theraplay": "Theraplay",
+      "theraplayDesc": "Interactieve therapie, vooral effectief voor kinderen",
+      "act": "ACT (Acceptance & Commitment Therapy)",
+      "actDesc": "Therapie gericht op acceptatie en waardegedreven handelen"
+    },
+    "certificates": "Certificaten & Opleiding"
+  },
+  "complaints": {
+    "title": "Veel Voorkomende Klachten",
+    "subtitle": "Dit zijn enkele van de problemen waar ik dagelijks mee werk en je mee kan helpen",
+    "items": {
+      "depression": "Depressie",
+      "depressionDesc": "Voortdurende neerslachtigheid, energieloosheid en verlies van interesse",
+      "anxiety": "Angst & Paniek",
+      "anxietyDesc": "Paniekstoornis, gegeneraliseerde angststoornis en fobieën",
+      "burnout": "Burnout",
+      "burnoutDesc": "Totale uitputting door werk- of persoonlijke stress",
+      "relationships": "Relatieproblemen",
+      "relationshipsDesc": "Communicatiesissues, conflict en emotionele afstand in relaties",
+      "anger": "Woede & Agressie",
+      "angerDesc": "Moeilijkheden met woedebeheer en impulsiviteit",
+      "trauma": "Trauma",
+      "traumaDesc": "PTSS, herinneringen en emotionele reacties op traumatische ervaringen",
+      "ocd": "OCD",
+      "ocdDesc": "Obsessieve gedachten en compulsief gedrag",
+      "children": "Kinderproblemen",
+      "childrenDesc": "Gedragsmoeilijkheden, emotionele problemen en ontwikkelingskwesties bij kinderen"
+    },
+    "contact": "Zie je je probleem niet in deze lijst?",
+    "contactBtn": "Geen probleem — neem contact op"
+  },
+  "howItWorks": {
+    "title": "Hoe Het Proces Werkt",
+    "subtitle": "Ik volg een stap-voor-stap aanpak gericht op je welzijn en herstel",
+    "steps": {
+      "step1": "Kennismakingsgesprek",
+      "step1Desc": "Je maakt een afspraak voor een gratis, vrijblijvend kennismakingsgesprek. We leren elkaar kennen en bespreken wat je nodig hebt.",
+      "step2": "Probleemverkenning",
+      "step2Desc": "In de eerste sessies verkennen we samen wat er speelt, hoe lang het al duurt en wat je wil bereiken.",
+      "step3": "Plan van Aanpak",
+      "step3Desc": "We bepalen samen welke therapiemethode het best past bij jouw situatie en maken een realistisch plan.",
+      "step4": "Actieve Therapie",
+      "step4Desc": "We werken samen aan het aanpakken van je probleem. Dit kan enkele weken tot maanden duren, afhankelijk van wat je nodig hebt.",
+      "step5": "Voortgangsevaluatie",
+      "step5Desc": "Regelmatig controleren we hoe het gaat en passen we de aanpak aan waar nodig.",
+      "step6": "Afronden",
+      "step6Desc": "Wanneer je je doelen bereikt hebt, beëindigen we de therapie. Je hebt tools om zelfstandig verder te gaan."
+    },
+    "details": "Praktische Details",
+    "duration": "Duur Sessies",
+    "durationText": "Typisch 60 minuten per sessie, ingericht naar jouw behoeften",
+    "frequency": "Frequentie",
+    "frequencyText": "Meestal 1x per week, maar flexibel instelbaar",
+    "language": "Taal",
+    "languageText": "Alle sessies in het Turks"
+  },
+  "pricing": {
+    "title": "Tarieven & Praktische Informatie",
+    "subtitle": "Transparante prijzen, geen verborgen kosten",
+    "consultation": "Kennismaking",
+    "consultationPrice": "Gratis",
+    "consultationDesc": "Start met een gratis, vrijblijvend kennismakingsgesprek waarbij we elkaar leren kennen.",
+    "therapy": "Individuele Therapie",
+    "therapyPrice": "€80 / 50 min",
+    "therapyDesc": "Persoonlijke ondersteuning voor jouw psychologische vragen en problemen.",
+    "payment": "Betaling",
+    "paymentText": "Betaal na elke sessie. Accepteren contant en via bankgegevens.",
+    "cancellation": "Annulering",
+    "cancellationText": "Annuleer tot 24 uur van tevoren zonder kosten.",
+    "insurance": "Vergoeding",
+    "insuranceText": "Mogelijk vergoed via bepaalde ziektekostenverzekeringen. Navraag aanbevolen."
+  },
+  "cta": {
+    "title": "Klaar voor Verandering?",
+    "subtitle": "Neem de eerste stap met een gratis, vrijblijvend kennismakingsgesprek. Geen verplichtingen, geen afwaiting. Samen bepalen we hoe ik je kan helpen.",
+    "bookBtn": "Boek Kennismaking",
+    "infoBtn": "Stuur een Email"
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "subtitle": "Heb je vragen of wil je een kennismakingsgesprek inplannen? Stuur me een bericht en ik zal je zo snel mogelijk terugbellen.",
+    "form": "Stuur me een Bericht",
+    "name": "Naam",
+    "namePlaceholder": "Jouw naam",
+    "email": "Email",
+    "emailPlaceholder": "jouw@email.com",
+    "phone": "Telefoonnummer",
+    "phonePlaceholder": "+32 (0) 485 65 57 84",
+    "subject": "Onderwerp",
+    "subjectPlaceholder": "Waar gaat dit over?",
+    "message": "Bericht",
+    "messagePlaceholder": "Jouw bericht...",
+    "submit": "Verstuur Bericht",
+    "contactInfo": "Contactgegevens",
+    "availability": "Beschikbaarheid",
+    "availabilityText": "Maandag - Vrijdag, Op afspraak",
+    "zaventem": "Zaventem",
+    "bertem": "Bertem"
+  },
+  "footer": {
+    "about": "Over Semra",
+    "aboutText": "Klinisch psycholoog gespecialiseerd in individuele, paar- en familytherapie.",
+    "services": "Diensten",
+    "information": "Informatie",
+    "contact": "Contact",
+    "copyright": "Turksepsycholoog.com. Alle rechten voorbehouden."
+  }
+}

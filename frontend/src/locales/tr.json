@@ -1,0 +1,144 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "about": "Hakkımda",
+    "contact": "İletişim",
+    "bookAppointment": "Randevu Rezervasyonu"
+  },
+  "hero": {
+    "title": "Semra Nur Tasdemir  Klinik Psikolog",
+    "subtitle": "Çocuklar, çiftler, aileler ve yetişkinler için terapi alanında uzmanım. Depresyon, tükenmişlik, travma ve ilişki problemleri en sık karşılaştığım şikayetlerdir.",
+    "note": "Tüm seanslar Türkçe yapılmaktadır. Terapis olarak durumunuzu tam anlamak ve size uygun psikolojik destek sağlamak için Türkçe gereklidir."
+  },
+  "about": {
+    "title": "Hakkımda",
+    "intro": "Ben Semra Nur Tasdemir, klinik psikologum. Uzmanlık alanım çocuklar, aileler, çiftler ve yetişkin bireyleri kapsamaktadır. En sık gördüğüm şikayetler; depresyon, travma, tükenmişlik, panik atak, kaygı ve öfke kontrolüdür.",
+    "experience": "10 yıldan fazla çalışma deneyimim olan çeşitli kuruluşlarda ve grup pratiklerde çalışmış olup, şu anda bağımsız klinik psikolog olarak hizmet vermekteyim.",
+    "approach": "Kişisel ve saygılı bir yaklaşımaya inanıyorum. Terapis olarak durumunuzu tam olarak anlamak ve sizin spesifik ihtiyaçlarınız için en uygun tedavi yöntemini uygulamak için zaman ayırıyorum.",
+    "languageTitle": "⚠️ Önemli: Tüm seanslar Türkçe yapılmaktadır",
+    "languageNote": "Terapis olarak durumunuzu tam anlamak ve uygun psikolojik destek sağlamak için Türkçe gereklidir. Bu sayede daha etkili bir terapi süreci sağlayabilirim."
+  },
+  "expertise": {
+    "title": "Terapi Yöntemleri & Uzmanlık",
+    "subtitle": "Bilimsel olarak kanıtlanmış terapi yöntemlerini kullanarak sizin spesifik durumunuza göre uyarladığım tedavi sunuyorum",
+    "therapies": {
+      "individual": "Bireysel Terapi",
+      "individualDesc": "Kişisel psikolojik sorunlar için bire bir rehberlik",
+      "couples": "Çift Terapisi",
+      "couplesDesc": "İlişki sorunları ve iletişim için destek",
+      "family": "Aile Danışmanlığı",
+      "familyDesc": "Dinamik veya çatışmalarla karşı karşıya olan aileler için terapi",
+      "children": "Çocuk Psikolojisi",
+      "childrenDesc": "4 ile 12 yaş arası çocuklarda uzmanlaşma",
+      "emdr": "EMDR (Travma)",
+      "emdrDesc": "Gözlerin hızlı hareket yöntemi ile travma işleme",
+      "eft": "EFT (Duygusal Odaklı Terapi)",
+      "eftDesc": "Daha derin duygusal bağlantı için duygusal odaklı terapi",
+      "theraplay": "Theraplay",
+      "theraplayDesc": "Etkileşimli terapi, özellikle çocuklar için etkili",
+      "act": "ACT (Kabul ve Taahhüt Terapisi)",
+      "actDesc": "Kabul ve değer merkezli davranışa odaklanmış terapi"
+    },
+    "certificates": "Sertifikalar & Eğitim"
+  },
+  "complaints": {
+    "title": "Sık Görülen Şikayetler",
+    "subtitle": "Günlük olarak çalıştığım ve sizi destekleyebileceğim problemlerin bazılarıdır",
+    "items": {
+      "depression": "Depresyon",
+      "depressionDesc": "Sürekli üzüntü, enerji eksikliği ve ilgide kayıp",
+      "anxiety": "Kaygı & Panik",
+      "anxietyDesc": "Panik bozukluğu, yaygın anksiyete bozukluğu ve fobiler",
+      "burnout": "Tükenmişlik",
+      "burnoutDesc": "İş veya kişisel stres nedeniyle tam bitkinlik",
+      "relationships": "İlişki Sorunları",
+      "relationshipsDesc": "İletişim sorunları, çatışma ve ilişkilerde duygusal mesafe",
+      "anger": "Öfke & Saldırganlık",
+      "angerDesc": "Öfke yönetimi ve dürtüsellik ile ilgili zorluklar",
+      "trauma": "Travma",
+      "traumaDesc": "TSSB, anılar ve travmatik yaşantılara duygusal tepkiler",
+      "ocd": "OKB",
+      "ocdDesc": "Obsesif düşünceler ve zorunlu davranışlar",
+      "children": "Çocuk Sorunları",
+      "childrenDesc": "Davranış zorlukları, duygusal sorunlar ve gelişimsel problemler"
+    },
+    "contact": "Probleminiz bu listede yoksa?",
+    "contactBtn": "Sorun yok — iletişime geçin"
+  },
+  "howItWorks": {
+    "title": "Süreç Nasıl Çalışır?",
+    "subtitle": "Refahınız ve iyileşmenize odaklanmış adım adım bir yaklaşım takip ediyorum",
+    "steps": {
+      "step1": "Tanışma Görüşmesi",
+      "step1Desc": "Ücretsiz, bağlayıcılıksız bir tanışma görüşmesi için randevu alırsınız. Birbirimizi tanırız ve ihtiyaçlarınızı konuşuruz.",
+      "step2": "Sorun Araştırması",
+      "step2Desc": "İlk seanslarımızda ne yaşandığını, ne kadar süredir devam ettiğini ve ne hedeflediğinizi birlikte keşfederiz.",
+      "step3": "Eylem Planı",
+      "step3Desc": "Birlikte hangi terapi yönteminin en uygun olduğuna karar veririz ve gerçekçi bir plan oluştururuz.",
+      "step4": "Aktif Terapi",
+      "step4Desc": "Sorununuzu çözmek için birlikte çalışırız. Bu, ihtiyacınıza göre birkaç hafta ile aylar arasında değişebilir.",
+      "step5": "İlerleme Değerlendirmesi",
+      "step5Desc": "Düzenli olarak nasıl gittiğini kontrol eder ve gerektiğinde yaklaşımımızı ayarlarız.",
+      "step6": "Sonlandırma",
+      "step6Desc": "Hedeflerinize ulaştığınızda terapiyi sonlandırırız. Bağımsız devam etmek için araçlara sahip olursunuz."
+    },
+    "details": "Pratik Ayrıntılar",
+    "duration": "Seans Süresi",
+    "durationText": "Tipik olarak seans başına 60 dakika, ihtiyaçlarınıza göre ayarlanabilir",
+    "frequency": "Sıklık",
+    "frequencyText": "Genellikle haftada 1, ancak esnek olarak ayarlanabilir",
+    "language": "Dil",
+    "languageText": "Tüm seanslar Türkçe yapılır"
+  },
+  "pricing": {
+    "title": "Ücretler & Pratik Bilgi",
+    "subtitle": "Şeffaf fiyatlandırma, gizli masraflar yok",
+    "consultation": "Tanışma",
+    "consultationPrice": "Ücretsiz",
+    "consultationDesc": "Ücretsiz, bağlayıcılıksız tanışma görüşmesi ile başlayın.",
+    "therapy": "Bireysel Terapi",
+    "therapyPrice": "€80 / 50 dakika",
+    "therapyDesc": "Psikolojik sorularınız ve sorunlarınız için kişisel destek.",
+    "payment": "Ödeme",
+    "paymentText": "Her seansdan sonra ödeyin. Nakit ve banka havalesi kabul ederiz.",
+    "cancellation": "İptal",
+    "cancellationText": "Öncesinde 24 saat haber vererek ücretsiz iptal edin.",
+    "insurance": "Geri Ödeme",
+    "insuranceText": "Bazı sağlık sigortaları tarafından geri ödenebilir. Sorgulanması önerilir."
+  },
+  "cta": {
+    "title": "Değişime Hazır mısınız?",
+    "subtitle": "Ücretsiz, bağlayıcılıksız bir tanışma görüşmesi ile ilk adımı atın. Hiçbir yükümlülük, hiçbir bekleme. Birlikte nasıl yardımcı olabileceğimize karar veririz.",
+    "bookBtn": "Randevu Alın",
+    "infoBtn": "Email Gönder"
+  },
+  "contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "Soruların mı var veya bir randevu almak ister misin? Bana bir mesaj gönder ve en kısa sürede sizinle iletişime geçeceğim.",
+    "form": "Bana Mesaj Gönder",
+    "name": "Ad",
+    "namePlaceholder": "Adınız",
+    "email": "Email",
+    "emailPlaceholder": "sizin@email.com",
+    "phone": "Telefon Numarası",
+    "phonePlaceholder": "+32 (0) 485 65 57 84",
+    "subject": "Konu",
+    "subjectPlaceholder": "Bu hakkında mı?",
+    "message": "Mesaj",
+    "messagePlaceholder": "Mesajınız...",
+    "submit": "Mesajı Gönder",
+    "contactInfo": "İletişim Bilgisi",
+    "availability": "Uygunluk",
+    "availabilityText": "Pazartesi - Cuma, Randevuya göre",
+    "zaventem": "Zaventem",
+    "bertem": "Bertem"
+  },
+  "footer": {
+    "about": "Semra Hakkında",
+    "aboutText": "Bireysel, çift ve aile terapisinde uzmanlaşmış klinik psikolog.",
+    "services": "Hizmetler",
+    "information": "Bilgi",
+    "contact": "İletişim",
+    "copyright": "Turksepsycholoog.com. Tüm hakları saklıdır."
+  }
+}
