@@ -7,13 +7,13 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Psychologist Appointment System",
-  description: "Appointment booking system for psychologists",
+  title: "Turksepsycholoog.com - Semra Nur Tasdemir",
+  description: "Klinisch psycholoog. Therapie voor individuen, families en koppels.",
 };
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="nl">
       <body className={inter.className}>
         <AuthProvider>
           {children}
