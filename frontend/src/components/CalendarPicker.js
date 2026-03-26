@@ -1,9 +1,17 @@
 'use client';
 
 import { useState } from 'react';
+import { useTranslations, useLocale } from 'next-intl';
 
 export default function CalendarPicker({ onSelectDate }) {
   const [currentDate, setCurrentDate] = useState(new Date());
+  const t = useTranslations('appointments.calendar');
+  const locale = useLocale();
+
+  const dayNamesMap = {
+    nl: ['Zon', 'Maa', 'Din', 'Woe', 'Don', 'Vri', 'Zat'],
+    tr: ['Paz', 'Pzt', 'Sal', 'Çar', 'Per', 'Cum', 'Cmt']
+  };
 
   const getDaysInMonth = (date) => {
     return new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
@@ -42,9 +50,12 @@ export default function CalendarPicker({ onSelectDate }) {
     days.push(i);
   }
 
-  const monthName = currentDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+  // Format month name with locale
+  const monthName = currentDate.toLocaleDateString(locale === 'tr' ? 'tr-TR' : 'nl-NL', { month: 'long', year: 'numeric' });
   const today = new Date();
   today.setHours(0, 0, 0, 0);
+
+  const dayNames = dayNamesMap[locale] || dayNamesMap['nl'];
 
   return (
     <div className="space-y-4">
@@ -54,14 +65,14 @@ export default function CalendarPicker({ onSelectDate }) {
           onClick={handlePrevMonth}
           className="text-gray-600 hover:text-gray-900 font-medium"
         >
-          ← Previous
+          {t('previous')}
         </button>
         <h3 className="text-lg font-semibold">{monthName}</h3>
         <button
           onClick={handleNextMonth}
           className="text-gray-600 hover:text-gray-900 font-medium"
         >
-          Next →
+          {t('next')}
         </button>
       </div>
 
@@ -69,7 +80,7 @@ export default function CalendarPicker({ onSelectDate }) {
       <div className="bg-gray-50 p-4 rounded-lg">
         {/* Day names */}
         <div className="grid grid-cols-7 gap-2 mb-2">
-          {['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map((dayName) => (
+          {dayNames.map((dayName) => (
             <div key={dayName} className="text-center text-sm font-semibold text-gray-600">
               {dayName}
             </div>
@@ -105,7 +116,7 @@ export default function CalendarPicker({ onSelectDate }) {
       </div>
 
       <p className="text-sm text-gray-500 text-center">
-        Select a date to see available times
+        {t('selectPrompt')}
       </p>
     </div>
   );

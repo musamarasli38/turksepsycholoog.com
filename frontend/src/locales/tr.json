@@ -285,5 +285,48 @@
       "phone": "Telefon:",
       "address": "Adres:"
     }
+  },
+  "appointments": {
+    "title": "Randevu Alın",
+    "calendar": {
+      "previous": "← Önceki",
+      "next": "Sonraki →",
+      "dayNames": ["Paz", "Pzt", "Sal", "Çar", "Per", "Cum", "Cmt"],
+      "selectPrompt": "Uygun saatleri görmek için bir tarih seçin"
+    },
+    "selectDate": "Bir tarih seçin",
+    "selectTime": "Bir saat seçin",
+    "availableSlots": "Uygun saatler",
+    "noAvailable": "Bu tarihte uygun saat bulunmamaktadır",
+    "name": "Tam ad",
+    "namePlaceholder": "Adınız",
+    "email": "Email adresi",
+    "emailPlaceholder": "sizin@email.com",
+    "phone": "Telefon numarası",
+    "phonePlaceholder": "+32 (0) 485 65 57 84",
+    "reason": "Ziyaret nedeni",
+    "reasonPlaceholder": "Neyi tartışmak istiyorsunuz?",
+    "bookButton": "Randevu Alın",
+    "bookingButton": "Randevu alınıyor...",
+    "confirmation": {
+      "title": "Randevu Onaylandı!",
+      "subtitle": "Randevunuz başarıyla planlandı.",
+      "details": "Randevu Ayrıntıları",
+      "date": "Tarih",
+      "time": "Saat",
+      "name": "Ad",
+      "email": "Email",
+      "phone": "Telefon numarası",
+      "reason": "Neden",
+      "reminder": "Randevunuzdan 24 saat öncesinde bir hatırlatma alacaksınız.",
+      "newBooking": "Başka bir randevu alın",
+      "backHome": "Anasayfaya geri dön"
+    },
+    "error": {
+      "title": "Rezervasyonda hata",
+      "tryAgain": "Tekrar deneyin",
+      "fillAll": "Lütfen tüm alanları doldurun",
+      "selectSlot": "Lütfen uygun bir saati seçin"
+    }
   }
 }

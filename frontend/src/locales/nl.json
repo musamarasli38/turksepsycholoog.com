@@ -285,5 +285,48 @@
       "phone": "Telefoon:",
       "address": "Adres:"
     }
+  },
+  "appointments": {
+    "title": "Maak een afspraak",
+    "calendar": {
+      "previous": "← Vorige",
+      "next": "Volgende →",
+      "dayNames": ["Zon", "Maa", "Din", "Woe", "Don", "Vri", "Zat"],
+      "selectPrompt": "Selecteer een datum om beschikbare tijden te zien"
+    },
+    "selectDate": "Selecteer een datum",
+    "selectTime": "Selecteer een tijd",
+    "availableSlots": "Beschikbare sloten",
+    "noAvailable": "Geen sloten beschikbaar op deze datum",
+    "name": "Volledige naam",
+    "namePlaceholder": "Uw naam",
+    "email": "Email adres",
+    "emailPlaceholder": "uw@email.com",
+    "phone": "Telefoonnummer",
+    "phonePlaceholder": "+32 (0) 485 65 57 84",
+    "reason": "Reden voor bezoek",
+    "reasonPlaceholder": "Wat wilt u bespreken?",
+    "bookButton": "Afspraak boeken",
+    "bookingButton": "Bezig met reserveren...",
+    "confirmation": {
+      "title": "Afspraak bevestigd!",
+      "subtitle": "Uw afspraak is succesvol ingepland.",
+      "details": "Afspraak details",
+      "date": "Datum",
+      "time": "Tijd",
+      "name": "Naam",
+      "email": "Email",
+      "phone": "Telefoonnummer",
+      "reason": "Reden",
+      "reminder": "U ontvangt een herinnering 24 uur voor uw afspraak.",
+      "newBooking": "Nog een afspraak boeken",
+      "backHome": "Terug naar home"
+    },
+    "error": {
+      "title": "Fout bij reservering",
+      "tryAgain": "Probeer het opnieuw",
+      "fillAll": "Vul alstublieft alle velden in",
+      "selectSlot": "Selecteer alstublieft een beschikbare slot"
+    }
   }
 }
